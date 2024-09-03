@@ -81,3 +81,9 @@ $filme = [
 ];
 
 echo $filme["nome"];
+
+var_dump($notas);
+sort($notas);
+var_dump($notas);
+$menorNota = min($notas);
+echo $menorNota;

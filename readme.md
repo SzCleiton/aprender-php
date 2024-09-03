@@ -26,3 +26,8 @@
 
 ### Aula 05
 -Aplicamos os conhecimentos do curso em uma aplicação de um sistema bancário, utilizando conceitos de variáveis, condicionais, loops e leitura de dados no PHP, juntamente à lógica de programação.
+
+### Aula 06
+-Conhecemos os conceitos de subrotinas e funções, permitindo a separação e reutilização de trechos de nosso código.
+-Aprendemos a criar funções no PHP, incluindo o recebimento de parâmetros e retorno de valores.
+-Entendemos como adicionar tipos aos parâmetros e ao retorno e conhecemos as vantagens de fazer essa escolha.
